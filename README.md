@@ -22,7 +22,7 @@ Question 5: General Trends in Refugee and Asylum Statistics from 2012-2022
 1. **Step 1:** Install + Import Necessary Libraries
 2. **Step 2:** Reading, Exploring and Preparing Data
 3. **Step 3:** Exploratory Data Analysis + Visualization
-4. **2012- 2022** Canada Refugee Statistics EDA Results Summary
+4. **2012- 2022:** Canada Refugee Statistics EDA Results Summary
 
 ## Files Included
 - [.ipynb Notebook](https://github.com/xavimmesia/canada-refugee-eda/blob/main/Canada%20Refugee%20Statistics%20Exploratory%20Data%20Analysis.ipynb)
